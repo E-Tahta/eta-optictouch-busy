@@ -1,0 +1,19 @@
+Source: eta-optictouch-busy
+Section: utils
+Priority: optional
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>= 9), dh-systemd, libqt5core5a, libqt5gui5, libqt5widgets5, libstdc++6, qtbase5-dev, qtdeclarative5-dev
+Standards-Version: 3.9.6
+Homepage: http://pardus.org.tr
+
+Package: eta-optictouch-busy
+Architecture: amd64
+Pre-Depends: systemd
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ eta-check-inputdevice,
+ qml-module-qtquick-controls,
+ qml-module-qtquick-window2,
+ qml-module-qtquick2
+Description: ETAP Dokunmatik Sürücü Kontrolcüsü
+ Faz 1 tahtalarda yer alan driverın geç gelmesinin tespit
+ ihtiyacı üzerine geliştirilmiş bir araç.

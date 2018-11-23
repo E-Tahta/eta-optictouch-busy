@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/Slice.qml</file>
+    </qresource>
+</RCC>
