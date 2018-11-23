@@ -1,3 +1,9 @@
+eta-optictouch-busy (0.1.1) unstable; urgency=medium
+
+  * Fix file path for main component
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 23 Nov 2018 14:38:04 +0300
+
 eta-optictouch-busy (0.1.0) unstable; urgency=medium
 
   * Initial release.
