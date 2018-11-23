@@ -14,6 +14,6 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
  qml-module-qtquick-controls,
  qml-module-qtquick-window2,
  qml-module-qtquick2
-Description: ETAP Dokunmatik Sürücü Kontrolcüsü
+Description: ETAP Dokunmatik Sürücü Bekleyicisi
  Faz 1 tahtalarda yer alan driverın geç gelmesinin tespit
- ihtiyacı üzerine geliştirilmiş bir araç.
+ ihtiyacı üzerine geliştirilmiş bir uygulamacık.
