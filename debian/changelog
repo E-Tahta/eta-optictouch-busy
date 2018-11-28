@@ -1,3 +1,9 @@
+eta-optictouch-busy (0.1.3) stable; urgency=medium
+
+  * Fix desktop file not installed
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 28 Nov 2018 20:16:18 +0300
+
 eta-optictouch-busy (0.1.2) stable; urgency=medium
 
   * Update description
